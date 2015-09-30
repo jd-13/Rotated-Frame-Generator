@@ -8,3 +8,5 @@ While creating a custom rotary slider for one of my plugins, I needed a way to c
 Below is an example input and output.
 
 ![alt tag](http://whiteelephantaudio.com/wp/wp-content/uploads/2015/09/RotarySlider.png)
+
+![alt tag](http://whiteelephantaudio.com/wp/wp-content/uploads/2015/09/RotarySlider1Strip.png)
